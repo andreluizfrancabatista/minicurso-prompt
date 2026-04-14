@@ -364,19 +364,3 @@ O **L** de *Logical Structure* se desdobra em 4 blocos obrigatórios:
 - Obrigado — dúvidas?
 
 > 📝 *Nota do apresentador:* Reserve 15–20 minutos para perguntas. Sugira que a turma escolha uma técnica e tente aplicar em algo que precisam fazer ainda hoje — a fixação é imediata quando há aplicação prática.
-
----
-
-## Resumo da estrutura
-
-| Bloco | Slides | Tempo estimado |
-|-------|--------|----------------|
-| Introdução | 1–6 | ~45 min |
-| Técnicas (7 técnicas × ~2 slides) | 7–22 | ~2h 30min |
-| Encerramento | 23–25 | ~20 min |
-| Perguntas e demonstrações livres | — | ~25 min |
-| **Total** | **25 slides** | **~4 horas** |
-
----
-
-Estrutura concluída. Confirme se está de acordo para eu iniciar a **Etapa 2 — Apostila em Markdown**.
