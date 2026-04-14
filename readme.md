@@ -14,12 +14,9 @@ Ao longo de 4 horas, são exploradas 7 técnicas essenciais com exemplos antes �
 ---
 
 ## Materiais disponíveis
-
-| Arquivo | Descrição |
-|---------|-----------|
-| [`slides.pdf`](./slides.pdf) | Slides utilizados na apresentação |
-| [`apostila.pdf`](./apostila.pdf) | Apostila completa para consulta (PDF) |
-| [`apostila.md`](./apostila.md) | Apostila completa para consulta (Markdown) |
+- Slides utilizados na apresentação
+- Apostila completa para consulta (PDF)
+- Apostila completa para consulta (Markdown)
 
 ---
 
@@ -47,13 +44,6 @@ Ao longo de 4 horas, são exploradas 7 técnicas essenciais com exemplos antes �
 
 ---
 
-## Ferramentas de referência
-
-- [Claude](https://claude.ai) — Anthropic
-- [ChatGPT](https://chatgpt.com) — OpenAI
-
----
-
 ## Evento
 
 **III InterPET — Instituto Federal do Triângulo Mineiro**
@@ -66,9 +56,9 @@ O InterPET é um evento de extensão promovido pelos grupos PET (Programa de Edu
 
 ## Autor
 
-**André Luiz França Batista**
-Professor do IFTM Campus Ituiutaba
-Grupo de pesquisa *Sistemas Computacionais Aplicados*
+- **André Luiz França Batista**
+- Professor do IFTM Campus Ituiutaba
+- Grupo de pesquisa *Sistemas Computacionais Aplicados*
 
 ---
 
