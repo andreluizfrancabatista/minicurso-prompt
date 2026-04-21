@@ -196,6 +196,9 @@ O bloco de contexto pode ser salvo em um arquivo de texto e colado no início de
 
 Além de melhorar a qualidade da resposta final, o Prompt Reverso frequentemente ajuda o próprio usuário a clarificar seus objetivos. As perguntas que a IA faz revelam lacunas que você não havia percebido — e que, se não preenchidas, levariam a um resultado insatisfatório.
 
+### Exemplo
+Atue como um engenheiro especializado em prompts. Revise o otimize o prompt abaixo para maximizar sua eficácia. Antes de prosseguir, faça perguntas objetivas para esclarecer objetivos, contexto e restrições. Prompt: [Cole aqui seu prompt.]
+
 ---
 
 ❌ **Antes:**
